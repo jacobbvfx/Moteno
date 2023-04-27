@@ -12,6 +12,7 @@ struct MotenoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
