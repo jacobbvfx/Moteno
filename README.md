@@ -2,7 +2,9 @@
 Simple app with everyday Quotes.
 
 ## Setup
-Change "http://yourip:3000" inside **Json.swift** to your server ip. Server configuration coming soon.
+- [Do this](https://github.com/shadoweG/MotenoServer)
+- Compile the app
+- Launch the app
 
 ## Contributing
 Pull requests are always welcome. For bigger changes, please open an issue first to discuss what you would like to change.
