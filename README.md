@@ -2,7 +2,7 @@
 Simple app with everyday Quotes.
 
 ## Setup
-- [Do this](https://github.com/shadoweG/MotenoServer)
+- [Do this](https://github.com/shadoweG/MotenoServer#readme)
 - Compile the app
 - Launch the app
 
